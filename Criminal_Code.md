@@ -34,6 +34,10 @@ Breaking blocks belonging to another, placing blocks on another's property, kill
 
 Breaking blocks belonging to another, placing blocks on another's property, killing an animal belonging to another, or placing animals on another's property without explicit or implicit permission with result in damages estimated at a significantly large value.
 
+#####Building Code Violation (1):
+
+Violating the building codes found here: https://www.reddit.com/r/CivAquila/comments/5y2m4q/building_codes/
+
 #####Theft (Minor) (2):
 
 Taking another's property without explicit or implicit permission.
