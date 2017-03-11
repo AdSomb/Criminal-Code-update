@@ -34,6 +34,10 @@ Breaking blocks belonging to another, placing blocks on another's property, kill
 
 Breaking blocks belonging to another, placing blocks on another's property, killing an animal belonging to another, or placing animals on another's property without explicit or implicit permission with result in damages estimated at a significantly large value.
 
+#####Building Code Violation (1)
+
+Violating the Building Codes for a zone, which can be found on the /r/CivAquila sidebar.
+
 #####Theft (Minor) (2):
 
 Taking another's property without explicit or implicit permission.
@@ -41,6 +45,10 @@ Taking another's property without explicit or implicit permission.
 #####Theft (Major) (3):
 
 Taking another's property without explicit or implicit permission with result in damages estimated at a significantly large value.
+
+#####Building Code Violation (1):
+
+Violating the Building Codes for a zone, which can be found on the /r/CivAquila sidebar.
 
 #####Fraud(1):
 
